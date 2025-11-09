@@ -1,0 +1,3 @@
+sources/app/game/dino_game/dino_cloud.cpp:17:17:void dino_cloud_init()	24	static
+sources/app/game/dino_game/dino_cloud.cpp:30:17:void dino_cloud_update()	24	static
+sources/app/game/dino_game/dino_cloud.cpp:50:17:void dino_cloud_draw()	40	static

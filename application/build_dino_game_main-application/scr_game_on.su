@@ -1,0 +1,2 @@
+sources/app/game/screens/scr_game_on.cpp:51:13:void view_scr_game_on()	0	static
+sources/app/game/screens/scr_game_on.cpp:60:17:void task_scr_game_on_handle(ak_msg_t*)	8	static

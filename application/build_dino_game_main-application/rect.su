@@ -1,0 +1,1 @@
+sources/app/game/dino_game/rect.cpp:4:6:bool rect_intersect(const rect_t*, const rect_t*)	12	static

@@ -1,0 +1,5 @@
+sources/app/game/dino_game/dino_player.cpp:28:17:void dino_player_init()	0	static
+sources/app/game/dino_game/dino_player.cpp:42:17:void dino_jump()	0	static
+sources/app/game/dino_game/dino_player.cpp:53:17:void dino_player_die()	0	static
+sources/app/game/dino_game/dino_player.cpp:62:17:void dino_player_update()	0	static
+sources/app/game/dino_game/dino_player.cpp:92:17:void dino_player_draw()	24	static

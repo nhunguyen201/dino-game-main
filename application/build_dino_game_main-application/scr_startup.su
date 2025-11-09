@@ -1,0 +1,3 @@
+sources/app/game/screens/scr_startup.cpp:31:13:void view_scr_dino_startup()	8	static
+sources/app/game/screens/scr_startup.cpp:23:17:void dino_init_setting()	0	static
+sources/app/game/screens/scr_startup.cpp:70:17:void task_scr_dino_startup_handle(ak_msg_t*)	8	static

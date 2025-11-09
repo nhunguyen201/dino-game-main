@@ -1,0 +1,5 @@
+sources/app/game/dino_game/dino_obstacle.cpp:44:13:void respawn_obstacle(dino_obstacle_t*)	16	static
+sources/app/game/dino_game/dino_obstacle.cpp:87:17:void dino_obstacle_init()	0	static
+sources/app/game/dino_game/dino_obstacle.cpp:99:17:void dino_obstacle_update()	8	static
+sources/app/game/dino_game/dino_obstacle.cpp:116:17:void dino_obstacle_draw()	24	static
+sources/app/game/dino_game/dino_obstacle.cpp:155:17:bool dino_obstacle_check_collision(rect_t)	24	static

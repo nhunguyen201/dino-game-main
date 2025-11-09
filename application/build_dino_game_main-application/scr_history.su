@@ -1,0 +1,2 @@
+sources/app/game/screens/scr_history.cpp:39:13:void view_scr_history()	56	static
+sources/app/game/screens/scr_history.cpp:69:17:void task_scr_history_handle(ak_msg_t*)	8	static

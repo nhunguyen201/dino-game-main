@@ -1,0 +1,4 @@
+sources/app/game/screens/scr_idle.cpp:108:13:void view_scr_idle()	32	static
+sources/app/game/screens/scr_idle.cpp:40:2:ball::ball()	16	static
+sources/app/game/screens/scr_idle.cpp:118:17:void task_scr_idle_handle(ak_msg_t*)	48	static
+sources/app/game/screens/scr_idle.cpp:197:1:cpp)	16	static
